@@ -8,3 +8,4 @@ O Resume AI é um projeto que "lê" uma página da Internet (através da URL) e 
 
 Ele utiliza o Google Gemini como LLM para resumir o que está na página.
 
+![Garantia Tabajara](https://pbs.twimg.com/media/FSU6HvxWUAMbR_S.jpg)
